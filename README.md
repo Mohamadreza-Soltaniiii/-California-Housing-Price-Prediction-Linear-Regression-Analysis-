@@ -1,4 +1,4 @@
-# -California-Housing-Price-Prediction-Linear-Regression-Analysis-
+ California-Housing-Price-Prediction-Linear-Regression-Analysis-
 *A machine learning project predicting median house values in California using linear regression.*
 ## 🚀 **Key Features**  
 - **Dataset**: Scikit-learn's `fetch_california_housing` dataset (20,640 samples, 8 features).  
